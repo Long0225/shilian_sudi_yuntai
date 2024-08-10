@@ -63,6 +63,6 @@ mybatis-plus:
   global-config:
     db-config:
       id-type: ASSIGN_ID
-#本地图片路径
+#本地图片路径或虚拟机图片路径
 reggie:
-  path: E:\JavaProject\SpringBoot\itheima\reggie_take_out\img\
+  path: /usr/local/javaapp/reggie-take-out/img
