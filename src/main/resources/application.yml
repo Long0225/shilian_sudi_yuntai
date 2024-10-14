@@ -65,4 +65,5 @@ mybatis-plus:
       id-type: ASSIGN_ID
 #本地图片路径或虚拟机图片路径
 reggie:
-  path: /usr/local/javaapp/reggie-take-out/img/
+  #path: /usr/local/javaapp/reggie-take-out/img/
+  path: E:\JavaProject\SpringBoot\itheima\reggie_take_out\img\
