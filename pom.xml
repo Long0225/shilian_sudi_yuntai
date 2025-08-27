@@ -10,14 +10,14 @@
         <version>2.4.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.itheima</groupId>
-    <artifactId>reggie_take_out</artifactId>
+    <groupId>com.cqust</groupId>
+    <artifactId>shilian_sudi_yuntai</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
 <!--        jdk版本-->
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <dependencies>
